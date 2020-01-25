@@ -1,6 +1,7 @@
 {
     "name": "pakjepakjes/pakjepakjes",
     "description": "Package for creating and sending package through multiple senders",
+    "version": "0.1",
     "keywords": [
         "pakjepakjes",
         "pakjepakjes"
