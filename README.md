@@ -1,7 +1,7 @@
 # Very short description of the package
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/pakjepakjes/pakjepakjes.svg?style=flat-square)](https://packagist.org/packages/pakjepakjes/pakjepakjes)
-[![Build Status](https://img.shields.io/travis/pakjepakjes/pakjepakjes/master.svg?style=flat-square)](https://travis-ci.org/pakjepakjes/pakjepakjes)
+[![Build Status](https://img.shields.io/travis/pakjepakjes/pakjepakjes/master.svg?style=flat-square)](https://travis-ci.org/mikevosje/pakjepakjes-laravel)
 [![Quality Score](https://img.shields.io/scrutinizer/g/pakjepakjes/pakjepakjes.svg?style=flat-square)](https://scrutinizer-ci.com/g/pakjepakjes/pakjepakjes)
 [![Total Downloads](https://img.shields.io/packagist/dt/pakjepakjes/pakjepakjes.svg?style=flat-square)](https://packagist.org/packages/pakjepakjes/pakjepakjes)
 

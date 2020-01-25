@@ -2,8 +2,6 @@
 
 namespace Pakjepakjes\Pakjepakjes;
 
-use Illuminate\Support\Facades\Log;
-
 class Pakjepakjes
 {
     public $apikey;
@@ -77,9 +75,6 @@ class Pakjepakjes
         $result = curl_exec($ch); // Execute the cURL statement
         curl_close($ch); // Close the cURL connection
         $data = json_decode($result);
-        Log::debug($post);
-        Log::debug(json_encode($this));
-        Log::debug(serialize($data));
 //        if (! isset($data->errors)) {
 //            $this->createShipment($data);
 //        } else {
@@ -88,6 +83,6 @@ class Pakjepakjes
 //            return ['status' => 'error', 'error' => $data->errors];
 //        }
 
-        return ['status' => 'succes'];
+        return ['status' => 'succes', 'data' => $data];
     }
 }

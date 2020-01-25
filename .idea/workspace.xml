@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6be7c06-c94a-455f-8fb4-8d779c90be62" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pakjepakjes.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pakjepakjes.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,11 +20,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration">
-    <include_path>
-      <path value="$PROJECT_DIR$/vendor/composer" />
-    </include_path>
-  </component>
   <component name="ProjectId" id="1WsjDnTE9uAjnY7cnhszIMLVcQp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -36,7 +33,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="$USER_HOME$/.nvm/versions/node/v4.6.1/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -121,6 +118,10 @@
       <screen x="0" y="23" width="2560" height="1374" />
     </state>
     <state width="1280" height="410" key="GridCell.Tab.0.right/0.23.2560.1374@0.23.2560.1374" timestamp="1579947822328" />
+    <state x="1429" y="349" key="SettingsEditor" timestamp="1579949240368">
+      <screen x="0" y="23" width="2560" height="1374" />
+    </state>
+    <state x="1429" y="349" key="SettingsEditor/0.23.2560.1374@0.23.2560.1374" timestamp="1579949240368" />
     <state x="1600" y="467" width="639" height="486" key="find.popup" timestamp="1579948422104">
       <screen x="0" y="23" width="2560" height="1374" />
     </state>
