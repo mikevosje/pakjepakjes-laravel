@@ -2,7 +2,6 @@
     "name": "pakjepakjes/pakjepakjes",
     "description": "Package for creating and sending package through multiple senders",
     "keywords": [
-        "pakjepakjes",
         "pakjepakjes"
     ],
     "homepage": "https://github.com/pakjepakjes/pakjepakjes",
@@ -17,7 +16,7 @@
     ],
     "require": {
         "php": "^7.2",
-        "illuminate/support": "^6.0"
+        "laravel/framework": "^5.8"
     },
     "require-dev": {
         "orchestra/testbench": "^4.0",
@@ -36,7 +35,6 @@
     "scripts": {
         "test": "vendor/bin/phpunit",
         "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
-
     },
     "config": {
         "sort-packages": true
