@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6be7c06-c94a-455f-8fb4-8d779c90be62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Contact.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Package.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pakjepakjes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pakjepakjes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pakjepakjes.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pakjepakjes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,5 +121,9 @@
       <screen x="0" y="23" width="2560" height="1374" />
     </state>
     <state width="1280" height="410" key="GridCell.Tab.0.right/0.23.2560.1374@0.23.2560.1374" timestamp="1579947822328" />
+    <state x="1600" y="467" width="639" height="486" key="find.popup" timestamp="1579948422104">
+      <screen x="0" y="23" width="2560" height="1374" />
+    </state>
+    <state x="1600" y="467" width="639" height="486" key="find.popup/0.23.2560.1374@0.23.2560.1374" timestamp="1579948422104" />
   </component>
 </project>
